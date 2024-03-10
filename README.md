@@ -1,7 +1,7 @@
 <h1 align="center">Win'get</h1>
 <p></p>
 Win'get brings widgets to Windows! 
-
+</p>
 
 > [!WARNING]
 > Please keep in mind that win'get is at a very early stage of development
