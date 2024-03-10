@@ -6,14 +6,13 @@ Win'get brings widgets to Windows!
 # TODO
 Widgets: 
  - Calendar widget - google
- - Spotify widget
  - News widget
  - Photo Widget
  - Mail widget
- - Battery Widget - battery of bluetooth connected devices
+ - Battery widget - battery of bluetooth connected devices
  - Bluetooth Widget - connected devices
- - Google Widget
- - Maps Widget
+ - Google widget
+ - Maps widget
 
 Themes: 
  - Color theme
@@ -22,5 +21,10 @@ Themes:
  - *more...*
 
 # Done
+Widgets: 
+ - Spotify widget
+ - Weather widget
 
+Themes:
+ - Transparent Theme
 
