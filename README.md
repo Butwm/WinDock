@@ -29,5 +29,6 @@ Widgets:
  - Weather widget
 
 Themes:
- - Transparent Theme
+ - Transparent theme
+ - Color theme
 
