@@ -2,8 +2,8 @@
 <p></p>
 Win'get brings widgets to Windows! 
 </p>
-<img src="weather-widget-color">
-<img src="weather-widget-transparent">
+<img src="weather-widget-color.svg">
+<img src="weather-widget-transparent.svg">
 <p></p>
 > [!WARNING]
 > Please keep in mind that win'get is at a very early stage of development
