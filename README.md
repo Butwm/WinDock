@@ -19,7 +19,6 @@ Widgets:
  - Maps widget
 
 Themes: 
- - Color theme
  - Dark theme
  - White theme
  - *more...*
@@ -31,7 +30,7 @@ Widgets:
 
 Themes:
  - Transparent theme
- - Color theme
+ - Gray theme
 
 # Preview
 <div align="center">
