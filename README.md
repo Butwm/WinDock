@@ -2,9 +2,7 @@
 <p></p>
 Win'get brings widgets to Windows! 
 </p>
-<img src="weather-widget-color.svg">
-<img src="weather-widget-transparent.svg">
-<p></p>
+ <p></p>
 > [!WARNING]
 > Please keep in mind that win'get is at a very early stage of development
 
@@ -33,4 +31,10 @@ Widgets:
 Themes:
  - Transparent theme
  - Color theme
+
+# Preview
+<div align="center">
+<img src="weather-widget-color.svg">
+<img src="weather-widget-transparent.svg">
+</div>
 
