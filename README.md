@@ -1,11 +1,11 @@
-<h1 align="center">Win'get</h1>
+<h1 align="center">WinDock</h1>
 <p></p>
-Win'get brings widgets to Windows! 
+WinDockbrings widgets to Windows! 
 </p>
  <p></p>
  
 > [!WARNING]
-> Please keep in mind that win'get is at a very early stage of development
+> Please keep in mind that WinDock is at a very early stage of development
 
 # TODO
 Widgets: 
@@ -38,3 +38,6 @@ Themes:
 <img src="weather-widget-transparent.svg">
 </div>
 
+# Ideas? 
+
+Any ideas of new feature? Join our Discord: <...>
