@@ -17,6 +17,10 @@ Widgets:
  - Bluetooth Widget - connected devices
  - Google widget
  - Maps widget
+ - RAM/CPU/GPU Widget
+ - Screentime Widget
+
+- Website
 
 Themes: 
  - Dark theme
