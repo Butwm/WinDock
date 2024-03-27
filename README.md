@@ -47,6 +47,13 @@ Themes:
  Soon...
 </div>
 
+# Contributors 
+
+Thank you for banner and logo [Charlie](https://github.com/0Charliecat) 
+
+- [Butwm](https://github.com/Butwm) ![Butwm](https://avatars.githubusercontent.com/u/78359657?v=4)
+- [vilemhaupt](https://github.com/vilemhaupt) ![vilemhaupt](https://avatars.githubusercontent.com/u/71026000?v=4)
+
 # Ideas? 
 
 Any ideas of new feature? Join our Discord: <...>
