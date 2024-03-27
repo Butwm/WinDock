@@ -1,3 +1,4 @@
+<img src="windock-banner.jpg">
 <h1 align="center">WinDock</h1>
 <p></p>
 Upgrade your Windows experience with WinDock – the ultimate widget solution! Sure, Rainmeter exists, but why hassle with complexity when you can glide through with WinDock's user-friendly interface? We're not just about widgets; we're about simplicity, modernity, and packing in more features than ever before!
