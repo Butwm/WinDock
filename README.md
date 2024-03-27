@@ -43,8 +43,7 @@ Themes:
 
 # Preview
 <div align="center">
-<img src="weather-widget-color.svg">
-<img src="weather-widget-transparent.svg">
+ Soon...
 </div>
 
 # Ideas? 
