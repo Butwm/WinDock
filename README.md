@@ -9,6 +9,7 @@ WinDockbrings widgets to Windows!
 
 # TODO
 Widgets: 
+ - Clock Widget
  - Calendar widget - google
  - News widget
  - Photo Widget
