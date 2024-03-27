@@ -51,8 +51,8 @@ Themes:
 
 Thank you for banner and logo [Charlie](https://github.com/0Charliecat) 
 
-- [Butwm](https://github.com/Butwm)![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/78359657?v=4&=60&w=60&fit=cover&mask=circle&maxage=7d)
-- [vilemhaupt](https://github.com/vilemhaupt) <img src="https://avatars.githubusercontent.com/u/71026000?v=4" alt="vilemhaupt pfp" style="width: 50px; height: 50px; border-radius: 50%;">
+- [Butwm](https://github.com/Butwm)![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/78359657?v=4&=300&w=300&fit=cover&mask=circle&maxage=7d)
+- [vilemhaupt](https://github.com/vilemhaupt) <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/71026000?v=4&=300&w=300&fit=cover&mask=circle&maxage=7d" alt="vilemhaupt pfp" style="width: 50px; height: 50px; border-radius: 50%;">
 
 # Ideas? 
 
