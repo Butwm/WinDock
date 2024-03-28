@@ -56,4 +56,4 @@ Thank you for banner and logo [Charlie](https://github.com/0Charliecat)
 
 # Ideas? 
 
-Any ideas of new feature? Join our Discord: <...>
+Any ideas of new feature? Join our Discord: https://discord.gg/SPF6pXzx
